@@ -4,7 +4,7 @@
 
 ![PHASEZERO-example-OVERLAY-2](PHASEZERO-example-2.png)
 
-![Gimp PHASE ZERO example OVERLAY](gimp.png)
+![Gimp PHASE ZERO example OVERLAY](gimp-version.png)
 
 
 
